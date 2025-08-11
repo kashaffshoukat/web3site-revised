@@ -1,0 +1,17 @@
+/* components/sections/Pagetitle1.css */
+
+@keyframes floatSideways {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(10px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.float-animation {
+  animation: floatSideways 6s ease-in-out infinite;
+}
