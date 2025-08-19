@@ -16,7 +16,7 @@ export default function ProjectDetails() {
                                         <span className="boder" />
                                         <div className="img-box">
                                             <div className="image">
-                                                <img className="mask" src="/assets/project_88.png" alt="" />
+                                                <img className="mask" src="/assets/project_1.png" alt="" />
                                                 <div className="shape">
                                                     <img src="/assets/shape2.png" alt="" />
                                                 </div>
