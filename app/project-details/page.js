@@ -16,7 +16,7 @@ export default function ProjectDetails() {
                                         <span className="boder" />
                                         <div className="img-box">
                                             <div className="image">
-                                                <img className="mask" src="/assets/project_88.png" alt="" />
+                                                <img className="mask" src="/assets/images/common/project_88.png" alt="" />
                                                 <div className="shape">
                                                     <img src="/assets/images/common/shape2.png" alt="" />
                                                 </div>
@@ -199,7 +199,7 @@ export default function ProjectDetails() {
                                             </li>
                                         </ul>
                                         <div className="image mb30">
-                                            <img className="boder-20" src="/assets/images/common/details_1.jpg" alt="" />
+                                            <img className="boder-20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmawins.com%2Fnews%2Fclient-project-management-process-overhaul%2F&psig=AOvVaw06Yge67HpItdI8dVHMcPsu&ust=1755681761793000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC3_LrGlo8DFQAAAAAdAAAAABAK" alt="" />
                                         </div>
                                         <div className="box">
                                             <h4 className="heading mb10">1. Project overview</h4>
