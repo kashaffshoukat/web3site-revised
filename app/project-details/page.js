@@ -1,6 +1,8 @@
 'use client'
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
+import Image from "next/image";
+
 export default function ProjectDetails() {
 
     return (
