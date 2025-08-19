@@ -16,7 +16,7 @@ export default function ProjectDetails() {
                                         <span className="boder" />
                                         <div className="img-box">
                                             <div className="image">
-                                                <img className="mask" src="/assets/imgaes/common/project_1.png" alt="" />
+                                                <img className="mask" src="/assets/images/common/project_88.png" alt="" />
                                                 <div className="shape">
                                                     <img src="/assets/images/common/shape2.png" alt="" />
                                                 </div>
@@ -253,7 +253,7 @@ export default function ProjectDetails() {
                                             <p>Cryptochi aims to maintain a free market economy using $CTHG as the underlying currency, with a continuous demand for the currency as the in-game economy grows. Players will capitalize on the growth and expansion of their own resources as well as the growth of the in-game economy, which will be reflected in the token value.</p>
                                         </div>
                                         <div className="image mb30">
-                                            <img className="boder-20" src="/assets/common/details_2.jpg" alt="" />
+                                            <img className="boder-20" src="/assets/images/common/details_2.jpg" alt="" />
                                         </div>
                                         <div className="box">
                                             <h4 className="heading mb10">4. Product roadmap</h4>
@@ -316,7 +316,7 @@ export default function ProjectDetails() {
                                             </ul>
                                         </div>
                                         <div className="image mb30">
-                                            <img className="boder-20" src="/assets/common/details_3.jpg" alt="" />
+                                            <img className="boder-20" src="/assets/images/common/details_3.jpg" alt="" />
                                         </div>
                                         <div className="box">
                                             <h4 className="heading mb10">5. Revenue stream</h4>
