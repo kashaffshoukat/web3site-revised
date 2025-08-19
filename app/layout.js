@@ -2,10 +2,10 @@
 import { Space_Grotesk } from "next/font/google";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "aos/dist/aos.css";
-import "/public/style/swiper/swiper-bundle.min.css";
-import "/public/assets/font/font-awesome.css";
-import "/public/assets/font/risebot.css";
-import "/public/assets/font/font-awesome.css";
+import "/style/swiper/swiper-bundle.min.css";
+import "/assets/font/font-awesome.css";
+import "/assets/font/risebot.css";
+import "/style/dist/app.css";
 // import "/public/style/bootstrap/css/bootstrap.css"
 import "/public/style/dist/app.css";
 import { Providers } from "./providers";
