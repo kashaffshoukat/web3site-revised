@@ -16,9 +16,9 @@ export default function ProjectDetails() {
                                         <span className="boder" />
                                         <div className="img-box">
                                             <div className="image">
-                                                <img className="mask" src="/assets/project_1.png" alt="" />
+                                                <img className="mask" src="/assets/imgaes/common/project_1.png" alt="" />
                                                 <div className="shape">
-                                                    <img src="/assets/common/shape2.png" alt="" />
+                                                    <img src="/assets/images/common/shape2.png" alt="" />
                                                 </div>
                                             </div>
                                             <div className="content">
@@ -199,7 +199,7 @@ export default function ProjectDetails() {
                                             </li>
                                         </ul>
                                         <div className="image mb30">
-                                            <img className="boder-20" src="/assets/common/details_1.jpg" alt="" />
+                                            <img className="boder-20" src="/assets/images/common/details_1.jpg" alt="" />
                                         </div>
                                         <div className="box">
                                             <h4 className="heading mb10">1. Project overview</h4>
